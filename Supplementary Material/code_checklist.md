@@ -1,4 +1,4 @@
-# A Deep Learning and Stochastic Process-Based Framework for Traffic States Estimation¡ªDensity, Speed and Flow Direction¡ªSolely By Traffic Flow Data
+# A Deep Learning and Stochastic Process-Based Framework for Traffic States Estimation Density, Speed and Flow Direction Solely By Traffic Flow Data
 
 This paper elaborates on how to utilize the code and data provided in the supplementary materials. The paper is available in two versions: one in .md format and the other in .pdf format, with both versions containing identical content.
 
